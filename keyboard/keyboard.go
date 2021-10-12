@@ -21,3 +21,7 @@ func GetFloat() (float64, error) {
 	}
 	return number, nil
 }
+
+func GetHui() {
+	fmt.Println("HUI")
+}
